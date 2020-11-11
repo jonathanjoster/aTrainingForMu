@@ -1,0 +1,12 @@
+* {
+    transition: all 1s;
+}
+
+div {
+    font-size: 25px;
+    overflow-wrap: break-word;
+}
+button {
+    width: 160px;
+    height: 45px;
+}
